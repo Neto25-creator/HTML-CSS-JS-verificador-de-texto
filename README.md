@@ -134,4 +134,5 @@ adaptar, expandir ou contribuir com melhorias!
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` se disponível.
+Este projeto está licenciado sob a MIT License.
+
